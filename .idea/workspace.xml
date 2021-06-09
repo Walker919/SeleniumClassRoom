@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2cc338c8-fb82-4855-9e82-8522cf82a866" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1rXAKD4FyObZvbef7LviFbuKgEm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Dan\Desktop\Java\SeleniumClassRoom" />
+      <recent name="C:\Users\Dan\Desktop\Java\SeleniumClassRoom\src\main\java" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Dan\Desktop\Java\SeleniumClassRoom" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.CreateAndDeleteRepository">
+    <configuration name="CreateAndDeleteRepository" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumClassRoom" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.github.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.github" />
+      <option name="MAIN_CLASS_NAME" value="tests.github.CreateAndDeleteRepository" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CreateRepositoryWithExistingName" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumClassRoom" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.github.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.github" />
+      <option name="MAIN_CLASS_NAME" value="tests.github.CreateRepositoryWithExistingName" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CreateRepositoryWithExistingName.test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumClassRoom" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.github.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.github" />
+      <option name="MAIN_CLASS_NAME" value="tests.github.CreateRepositoryWithExistingName" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GetRepoLanguagesTest.getListRepoLanguages" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumClassRoom" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.api.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.api" />
+      <option name="MAIN_CLASS_NAME" value="tests.api.GetRepoLanguagesTest" />
+      <option name="METHOD_NAME" value="getListRepoLanguages" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ValidatePullRequestButtonPresence" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumClassRoom" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.github.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.github" />
+      <option name="MAIN_CLASS_NAME" value="tests.github.ValidatePullRequestButtonPresence" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.CreateAndDeleteRepository" />
+        <item itemvalue="TestNG.GetRepoLanguagesTest.getListRepoLanguages" />
+        <item itemvalue="TestNG.ValidatePullRequestButtonPresence" />
+        <item itemvalue="TestNG.CreateRepositoryWithExistingName" />
+        <item itemvalue="TestNG.CreateRepositoryWithExistingName.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2cc338c8-fb82-4855-9e82-8522cf82a866" name="Default Changelist" comment="" />
+      <created>1619111995437</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1619111995437</updated>
+    </task>
+    <servers />
+  </component>
+</project>
